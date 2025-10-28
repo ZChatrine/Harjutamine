@@ -1,2 +1,2 @@
 # Harjutamine
-Versioonihalduse harjutamineGitHubis
+See hoidla on loodud versioonihalduse harjutamiseks GitHubis.
